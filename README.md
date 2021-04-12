@@ -7,11 +7,11 @@ src="https://raw.githubusercontent.com/akilhylton/helium-quick-wallet/main/.asse
 </p>
 
 <p align="center"> 
-  <strong> A tool that builds and compiles helium-wallet and saves you time ⚡</strong>
+  <strong> A tool that installs and compiles helium-wallet and saves you time ⚡</strong>
 </p>
 
 ## Motivation
-Are you tired of spending extra time individually running the commands needed to build and complie the [helium-wallet](https://github.com/helium/helium-wallet-rs) repository. Because I defiently am so I built a solution, a small bash script to automate the entire process. With a quick and simple oneliner. This tool will install everything necessary for you to run `foo@bar:~$ helium-wallet`. 
+Are you tired of spending extra time individually running the commands needed to build and compile the [helium-wallet](https://github.com/helium/helium-wallet-rs) repository. Because I definitely am so I built a solution, a small bash script to automate the entire process. With a quick and simple oneliner. This tool will install everything necessary for you to run `foo@bar:~$ helium-wallet`. 
 
 ## Installation
 
