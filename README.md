@@ -1,18 +1,25 @@
-# Quick Helium Wallet
 
-<img height=100
+<p align="center">
+  <a href="">
+<img height=125
 src="https://raw.githubusercontent.com/akilhylton/helium-quick-wallet/main/.assets/helium-quick-wallet-logo.svg"/>
+  </a>
+</p>
 
-### Motivation
+<p align="center"> 
+  <strong> A tool that builds and compiles helium-wallet and saves you time ⚡</strong>
+</p>
+
+## Motivation
 Are you tired of spending extra time individually running the commands needed to build and complie the [helium-wallet](https://github.com/helium/helium-wallet-rs) repository. Because I defiently am so I built a solution, a small bash script to automate the entire process. With a quick and simple oneliner. This tool will install everything necessary for you to run the `$helium-wallet` command. 
 
-### Installation
+## Installation
 
 ```
 sudo chmod 755 quick-helium-wallet.sh && ./quick-helium-wallet.sh
 ```
 
-### Usage
+## Usage
 
 At any time use `-h` or `--help` to get more help for a command.
 
